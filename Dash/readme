@@ -1,1 +1,3 @@
 colab_dash.ipynb.ipynb contains a script to use which enables DASH to work with colab.  In this script, output is visualized in-line.
+
+JupyterDash Demo.ipynb  contains another example for using DASH with Colab.  IN this example, jupyter-dash is imported.
